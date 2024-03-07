@@ -1,0 +1,1 @@
+Usage: ftbench <fontfile>
